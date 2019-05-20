@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Công Nghệ 24h
+            Công Nghệ Ome
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Những mẹo hay và đơn giản"
+            title="Những mẹo công nghệ và đơn giản"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://aliexpress24h.com/"
+            href="https://omedata.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

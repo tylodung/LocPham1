@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Lê Kha & Mẹo vặt Công Nghệ';
+    const title = 'Đoàn Gia & Mẹo vặt Công Nghệ';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Công Nghệ Cho Đời Sống
+                Đời Sống Cùng Công Nghệ
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Cùng Khám phá mẹo cực hữu ích...
+                Cùng Khám phá mẹo cực đơn giản...
               </p>
               <Flex
                 valign="center"

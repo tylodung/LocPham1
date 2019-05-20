@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Mẹo hay Công Nghệ',
-    siteUrl: 'https://aliexpress24h.com/',
+    title: 'Công Nghệ Ome',
+    siteUrl: 'https://omedata.com/',
     rssFeedTitle: 'meovatthuongngay',
-    rssFeedDescription: 'Mẹo hay Công Nghệ',
+    rssFeedDescription: 'Công Nghệ Ome',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
