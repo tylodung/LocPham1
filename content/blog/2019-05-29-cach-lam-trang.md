@@ -6,14 +6,14 @@ Các cuộc trò chuyện trên WhatsApp luôn được bảo mật khá cao, đ
 
 Trong các cuộc trò chuyện nhóm trên WhatsApp có rất nhiều tin nhắn được gửi đến từ các thành viên khiến ứng dụng dần trở nên chậm chạp, chính vì vậy hãy thường xuyên làm trắng các nhóm chat để WhatsApp đạt được hiệu năng tốt nhất. Hãy theo dõi bài viết dưới đây để xóa các tin nhắn trong nhóm mà không gây ảnh hưởng đến việc theo dõi nhóm của bạn.
 
-Các xóa các tin nhắn nhóm trên WhatsApp
+**Cách xóa các tin nhắn nhóm trên WhatsApp**
 
-Bước 1:
+*Bước 1:*
 
 Tại giao diện chính của ứng dụng WhatsApp hãy nhấn chọn đến 1 nhóm mà bạn muốn xóa tin nhắn, sau đó nhấn chọn tiếp vào tên nhóm đó - ở trên cùng của nhóm.
 
 
-Bước 2:
+*Bước 2:*
 
 Cửa sổ Thông tin nhóm xuất hiện hãy kéo xuống phía dưới để tìm dòng chữ Làm trắng cuộc trò chuyện.
 
