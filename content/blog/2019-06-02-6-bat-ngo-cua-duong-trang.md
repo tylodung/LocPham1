@@ -8,8 +8,6 @@ Công dụng không ngờ của đường trắng trong chăm sóc nhà cửa, v
 
 Trước khi rửa sạch máy xay cà phê, máy xay sinh tố, bạn chỉ cần đổ đường vào và cho nó xay vài phút. Đường sẽ hấp thụ mùi khó chịu còn sót lại.
 
-
-
 ![ten buc hinh](https://eva-img.24hstatic.com/upload/4-2017/images/2017-10-27/6-cong-dung-bat-ngo-cua-duong-trang-trong-cham-soc-nha-cua-vuon-tuoc-nhung-cong-dung-cua-duong5-1509109463-width660height427.jpg "ten buc hinh")
 
 **2. Làm sạch vết bẩn trên tay**
@@ -19,8 +17,6 @@ Bạn đã từng rơi vào tình trạng không thể nào rửa sạch tay dí
 **3. Giữ hoa tươi lâu**
 
 Hỗn hợp gồm 3 muỗng cà phê đường, 2 muỗng giấm trắng, nước ấm sẽ giúp hoa trở nên tươi lâu hơn. Đường cung cấp dinh dưỡng và giấm hạn chế vi khuẩn sinh sôi, phát triển.
-
-![ten buc hinh](https://eva-img.24hstatic.com/upload/4-2017/images/2017-10-27/6-cong-dung-bat-ngo-cua-duong-trang-trong-cham-soc-nha-cua-vuon-tuoc-6-1421464593romanticfloralarrangement3-dbnf-142165-1509109672-width660height924.jpg "ten buc hinh")
 
 
 **4. Tẩy vết ố, bẩn trên quần áo**
