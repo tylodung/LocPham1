@@ -1,6 +1,6 @@
 ---
 title: Mẹo chọn dưa leo sạch, ngon mà không bị đắng
-author: [lekha]
+author: [doanbinh]
 ---
 Để lựa chọn được những quả dưa chuột ngon, bạn cần phải biết cách chọn, xem hình dáng, kích cỡ, màu sắc dưa. Cùng tìm hiểu những mẹo vặt chọn dưa leo sạch mà không bị đắng để giúp các bà mẹ chọn dưa chuẩn không cần chỉnh nhé.
 
