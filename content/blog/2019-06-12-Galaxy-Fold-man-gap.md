@@ -5,9 +5,11 @@ author: [doanbinh]
 
 Samsung đã ra mắt 4 mẫu Galaxy S10, cùng tai nghe và đồng hồ thông minh mới. Galaxy Fold với kiểu dáng khác biệt là điểm sáng nhất trong sự kiện của Samsung.
 
+![ten buc hinh](https://znews-photo.zadn.vn/w660/Uploaded/lce_jwquc/2019_02_21/Fold_2.jpg "ten buc hinh")
+
 Khi phó chủ tịch Justin Denison rút ra chiếc điện thoại màn hình gập trong sự kiện của Samsung vào tháng 11/2018, mọi người đều thất vọng bởi họ chẳng thể nhìn được nó. Ánh sáng sân khấu quá tối, Denison cầm máy bằng tay phải, và mở máy ra bằng tay trái chỉ trong giây lát trước khi đóng nó lại và cất đi. Đó là một màn giới thiệu úp mở gây thất vọng.
 
-Thiết kế smartphone đã đi vào ngõ cụt
+**Thiết kế smartphone đã đi vào ngõ cụt**
 
 Vào ngày 20/2, Galaxy Fold cuối cùng cũng được lộ diện dưới ánh đèn sân khấu trong sự kiện Samsung Unpacked. Samsung còn giới thiệu chiếc điện thoại này trước cả những dòng sản phẩm cao cấp như Galaxy S10. Từng chi tiết nhỏ của Galaxy Fold, như các màu sắc, cũng khiến cho người dự sự kiện trầm trồ.
 
@@ -18,11 +20,11 @@ Nếu như bạn là một người trong giới công nghệ, bạn hẳn đã 
 
 Với những người như tôi và bạn, muốn bỏ tiền ra mua điện thoại mới hàng năm, thì sự nhàm chán này khiến tôi không còn lý do mua điện thoại mới. Thực tế là người dùng đang ngày càng gắn bó với một mẫu điện thoại, và nghĩ kỹ hơn khi mua một sản phẩm mới. Thời gian trung bình của mỗi lần đổi điện thoại giờ đã tăng lên 3 năm. Trong năm 2018, lượng smartphone bán ra toàn cầu đã giảm 5%, chỉ còn 376 triệu chiếc, theo Strategy Analytics.
 
-Nhưng Galaxy Fold là một điều khác biệt.
+**Nhưng Galaxy Fold là một điều khác biệt**
 
 “Người dùng không bao giờ thỏa mãn về kích thước màn hình. Tuy nhiên, họ lại không muốn một thiết bị quá to”, nhà phân tích Carolina Milanesi tại Creative Strategies giải thích. Theo bà Milanesi, Galaxy Fold chính là giải pháp.
 
-Sự linh hoạt mà Galaxy Fold mang lại
+**Sự linh hoạt mà Galaxy Fold mang lại**
 
 Galaxy Fold là một chiếc smartphone gọn gàng khi gập lại, nhưng khi mở ra thì lại trở thành máy tính bảng với màn hình rất lớn. Kích cỡ màn hình khi gập là 4,6 inch, còn khi mở ra là 7,3 inch. Nó có tới 6 camera: 3 camera ở mặt sau, 1 ở mặt trước và 2 camera ở mặt trong, chỉ dùng được khi mở màn hình. Về mặt cấu hình, máy được trang bị tới 12 GB RAM và cả 2 mặt đều có pin.
 
@@ -39,7 +41,7 @@ Samsung không phải là hãng duy nhất theo đuổi smartphone màn hình g�
 
 “Máy có màn gập sẽ sớm trở thành xu hướng. Chúng ta đã đạt tới giới hạn vật lý với các thiết bị có 1 màn hình, nhưng nhu cầu của người dùng thì luôn muốn nhiều hơn. Cách duy nhất để đáp ứng điều này là màn hình gập”, ông Bob O’Donnel, nhà phân tích tại Technalysis Research cho biết.
 
-Samsung chưa bao giờ có nhiều sự lựa chọn như thế
+**Samsung chưa bao giờ có nhiều sự lựa chọn như thế**
 
 Bên cạnh Galaxy Fold, đây là lần đầu tiên Samsung giới thiệu tới 4 phiên bản Galaxy S trong một sự kiện. Phần lớn thông số, cấu hình và tính năng của những phiên bản này là giống nhau, khác biệt lớn nhất là về thiết kế và số lượng camera cũng như giá bán.
 

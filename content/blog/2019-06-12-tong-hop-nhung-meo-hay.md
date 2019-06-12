@@ -5,6 +5,8 @@ author: [doanbinh]
 
 Tuần vừa rồi bạn đã bỏ qua những gì nào? Hãy cùng mình tìm hiểu ngay sau đây nhé!
 
+![ten buc hinh](https://cdn.tgdd.vn/Files/2017/07/25/1006709/androidvaios_1280x720-800-resize.jpg "ten buc hinh")
+
 **Cách phân biệt các loại iPhone ở Việt Nam, ưu, nhược điểm của từng loại**
 
 iPhone luôn là "món hàng" được nhiều người săn đón. Ngoài những chiếc iPhone đang được bán chính hãng, thì còn rất nhiều loại khác nữa. Mà nếu không phân biệt được, các bạn rất dễ bị mua lầm. Và dưới đây là 5 loại iPhone phổ biến nhất trên thị trường hiện nay.
