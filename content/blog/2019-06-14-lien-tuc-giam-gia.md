@@ -5,11 +5,13 @@ author: [doanbinh]
 
 Các nhà phân tích nhận định giá bán là nguyên nhân chính khiến doanh số iPhone liên tục giảm tại thị trường Trung Quốc.
 
+![ten buc hinh](https://i.a4vn.com/2019/4/15/lien-tuc-giam-gia-san-pham-apple-co-cua-hoi-sinh-tai-trung-quoc-5addb2.jpg "ten buc hinh")
+
 Trang Fortune nhận định, Apple đang gặp vấn đề lớn tại Trung Quốc khi doanh số bán iPhone liên tục giảm. Tuần trước, công ty đã giảm giá khoảng 6% cho các sản phẩm gồm iPhone, iPad, AirPods và máy tính Mac trên cửa hàng trực tuyến của hãng tại thị trường Trung Quốc. Động thái này bắt nguồn từ việc chính phủ Trung Quốc giảm thuế giá trị gia tăng từ 16% xuống còn 13%.
 
 Việc giảm giá bán thường sẽ tạo động lực để khách hàng xem xét lại sản phẩm, kích thích nhu cầu mua sắm từ đó giúp tăng doanh số cho công ty. Và Apple đang rất cần điều này tại Trung Quốc.
 
-Thị phần suy giảm do giá bán cao
+**Thị phần suy giảm do giá bán cao**
 
 Trung Quốc là một trong những thị trường quan trọng bậc nhất đối với Apple. Tại đây, công ty tạo ra 18 tỷ USD doanh thu trong quý IV/2017, chiếm 20% tổng doanh thu của hãng trong năm đó. Tuy nhiên đến quý IV/2018, doanh thu của Apple tại Trung Quốc đã giảm xuống còn 13,2 tỷ USD.
 
@@ -31,7 +33,7 @@ Trên thực tế, trong khi Apple gặp khó khăn trong việc bán iPhone, c�
 
 Một số ý kiến cũng cho rằng doanh số iPhone sẽ tiếp tục đi xuống trong năm nay do sự suy giảm của thị trường. Theo dự báo từ CCS Insight, sản lượng di động bán ra tại Trung Quốc sẽ giảm 9% trong năm 2019 vì mức giá của các thiết bị từ Apple, Samsung và một số công ty khác.
 
-iPhone không còn là trọng tâm
+**iPhone không còn là trọng tâm**
 
 Điều này không đồng nghĩa với việc bộ phận kinh doanh Apple tại Trung Quốc sẽ thảm bại. Theo Ives, Apple có khoảng 60-70 triệu khách hàng tiềm năng. Đây là những khách hàng trung thành với công ty và có khả năng sẽ nâng cấp iPhone mới trong tương lai. "Đây là cơ hội vàng cho Apple", Ives nói.
 

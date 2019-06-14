@@ -5,6 +5,9 @@ author: [doanbinh]
 
 Đây được xem là tính năng phổ biến trên các smartphone cao cấp 2019 khi nó có khả năng sạc không dây ngược cho các thiết bị khác.
 
+![ten buc hinh](https://cdn.tgdd.vn/Files/2019/03/24/1156639/iphone-11-dual-charging_800x450.jpg "ten buc hinh")
+
+
 Theo Macotakara, iPhone thế hệ tiếp theo có tính năng tương tự như Wireless PowerShare của Galaxy S10. Dựa vào thông tin từ chuỗi cung ứng Trung Quốc, blog tin tức này dự đoán Apple Watch có thể được sạc theo phương pháp đó.
 
 Nhà phân tích Ming-Chi Kuo là người đầu tiên ra dự đoán về tính năng sạc không dây hai chiều của iPhone 11, vài ngày trước thời điểm Samsung công bố Galaxy S10 có Wireless PowerShare.

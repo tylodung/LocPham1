@@ -5,6 +5,9 @@ author: [doanbinh]
 
 Được biết, quá trình sản xuất thử nghiệm sẽ diễn ra trước khi Foxconn bắt đầu sản xuất hàng loạt iPhone cao cấp trong nhà máy của nó nằm bên ngoài Chennai.
 
+![ten buc hinh](https://cdn.trangcongnghe.com/uploads/posts/2019-04/b225o-c225o-foxconn-chuan-bi-san-xuat-iphone-cao-cap-o-an-do-trong-v224i-tuan-toi_1.jpg "ten buc hinh")
+
+
 Mặc dù không được đề cập rõ ràng trong báo cáo, nhưng có vẻ như Foxconn cũng sẽ sản xuất loạt iPhone XS cho Apple tại Ấn Độ. Foxconn là nhà cung cấp lớn nhất của Apple và sẽ đầu tư khoảng 300 triệu USD để thiết lập dây chuyền sản xuất cho Apple. Sau đó, công ty này sẽ mở rộng năng lực sản xuất và đầu tư khi nhu cầu tăng lên. Foxconn và Apple sẽ sử dụng nhà máy này để đáp ứng nhu cầu về iPhone tại Ấn Độ và xuất khẩu chúng sang các thị trường lân cận khác.
 
 Được biết, Foxconn đã lắp ráp điện thoại thông minh cho một số OEM Android ở Ấn Độ bao gồm cả Xiaomi và OnePlus.
