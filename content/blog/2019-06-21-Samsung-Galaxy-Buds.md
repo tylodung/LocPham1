@@ -5,6 +5,8 @@ author: [doanbinh]
 
 Tai nghe không dây sẽ có những bước cải tiến đáng kể trong năm 2019 và Samsung đang cho thấy điều này trên sản phẩm mới nhất của hãng.
 
+![ten buc hinh](https://storage.oxii.vn/Cache/Sites/OXII/Storage/Images/2019/3/8/728/galaxybuds1-800x450_749_450_536.jpg "ten buc hinh")
+
 Cần những gì để có thể đánh bại được tai nghe AirPods của Apple? Hầu hết công ty sản xuất tai nghe đều cho rằng câu trả lời nằm ở chất lượng âm thanh tốt hơn, khả năng chống ồn và tuổi thọ pin. Tuy nhiên, một sản phẩm như vậy sẽ có giá bán khá cao và thiết kế cồng kềnh hơn.
 
 Tại sự kiện Unpacked, bên cạnh thế hệ Galaxy S10, Samsung đã mang tới chiếc tai nghe không dây Galaxy Buds với mức giá 130 USD và sẽ được bán ra vào ngày 8/3. Theo The Verge, những điều Samsung mang lên mẫu tai nghe này đang cho thấy tham vọng đánh bại AirPods của hãng. 

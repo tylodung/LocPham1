@@ -4,6 +4,9 @@ author: [doanbinh]
 ---
 
 Sau Touch ID và Face ID, Apple đang cố gắng tìm kiếm công nghệ bảo mật tối ưu cho những thiết bị di động của mình.
+
+![ten buc hinh](https://znews-photo.zadn.vn/w660/Uploaded/pqmcbzwv/2019_05_26/iphone2019goldrender21920x1080.jpg "ten buc hinh")
+
 Một bằng sáng chế của Apple từ tháng 2/2018 được lộ ra gần đây cho thấy hãng đang phát triển cụm camera trước có khả năng quét các tĩnh mạch và mạch máu của người dùng, từ đó xác định ai là chủ sở hữu của chiếc điện thoại. Tính năng này được Apple gọi là “quét hình ảnh dưới da.”
 
 Đầu tiên, camera sẽ quét gương mặt người dùng, có thể bằng tia hồng ngoại, và bộ vi xử lý của máy sẽ tính toán thông tin bằng việc sử dụng một loạt thuật toán liên quan đến quá trình tái tạo biểu đồ gương mặt bằng những chấm hồng ngoại, gần giống với cách Face ID hoạt động.

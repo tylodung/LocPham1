@@ -6,6 +6,9 @@ author: [doanbinh]
 Thế hệ mới không có nhiều thay đổi về thiết kế, được nâng cấp bên trong với chip H1 và sạc không dây.
 Apple vừa bất ngờ giới thiệu thế hệ AirPods mới, là bản nâng cấp của mẫu tai nghe true-wireless bán chạy nhất thế giới hiện nay.
 
+![ten buc hinh](http://goldstore.vn/uploads/source/154415718584tainghekhongdayappleairpods2seramatvaodaunamtoiairpodsmasthead1543860014width660height359.jpg "ten buc hinh")
+
+
 Trong lần nâng cấp này, Apple hầu như không thay đổi bất cứ chi tiết nào về thiết kế. Sự khác biệt nằm ở bên trong với con chip W1 được thay thế bằng chip H1 mới, được tạo ra dành riêng cho các thiết bị tai nghe với mục đích giúp người dùng có trải nghiệm sử dụng tốt hơn.
 
 Airpods mới có thiết kế không đổi nhưng bổ sung con chip mới, tính năng ra lệnh bằng Siri và hộp đựng có thể sạc không dây chuẩn Qi.
