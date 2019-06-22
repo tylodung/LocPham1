@@ -5,6 +5,9 @@ author: [doanbinh]
 
 Tính năng theo dõi nhịp tim của Apple Watch vừa cứu sống một người mắc bệnh tim mạch. Thành viên diễn đàn Reddit có nickname ClockworkWXVII đã kể lại câu chuyện mình được cứu thoát khỏi lưỡi hái tử thần nhờ đồng hồ công nghệ của Apple.
 
+![ten buc hinh](https://kenh14cdn.com/2019/4/8/how-to-use-ecg-on-apple-watch-1554691372198746889960.jpg "ten buc hinh")
+
+
 Người này chia sẻ: "Tôi đang nằm trên giường, thưởng thức chương trình TV và đồ ăn tự nấu, bỗng dưng Apple Watch thông báo rằng nhịp tim của tôi bất thường và sau đó cảnh báo nhịp tim của tôi rất nhanh".
 
 Ngay lập tức anh ta gọi dịch vụ khẩn cấp. Khi các nhân viên y tế đến nơi, chủ nhân của Apple Watch đã bị sốc mặc dù trước khi nhận được cảnh báo của thiết bị, cơ thể anh hoàn toàn bình thường.

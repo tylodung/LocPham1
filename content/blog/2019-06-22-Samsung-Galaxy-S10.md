@@ -5,6 +5,9 @@ author: [doanbinh]
 
 Những nâng cấp này hứa hẹn sẽ mang lại trải nghiệm sử dụng Internet tốt hơn đáng kể cho người dùng cả khi sử dụng mạng di động hoặc kết nối với Wi-Fi.
 
+![ten buc hinh](https://cdnxehoi.vatgia.vn/full/2019/02/21/1550744395-day-la-ban-galaxy-s10-lon-nhat-internet-nhanh-nhat-kho-mua-nhat1-picture4086.jpg "ten buc hinh")
+
+
 Cả ba chiếc Galaxy S10e, S10 và S10+ đều được trang bị mạng Wi-Fi 6 và LTE có tốc độ 2 Gigabit, tăng từ 1,2 Gigabit so với năm trước. Những nâng cấp này hứa hẹn sẽ mang lại trải nghiệm sử dụng Internet tốt hơn đáng kể cho người dùng cả khi sử dụng mạng di động hoặc kết nối với Wi-Fi. Đồng thời, nó cũng là chiếc smartphone có tốc độ Internet (trên lý thuyết) cao nhất hiện nay.
 
 Cần lưu ý, 2 Gbps chỉ là tốc độ trên lý thuyết. Trong các điều kiện sử dụng thực tế, người dùng khó có thể đạt tới tốc độ này. Tuy nhiên, việc hỗ trợ băng thông lớn hơn cho phép máy có thể đạt tốc độ truy cập Internet nhanh hơn trong điều kiện lý tưởng.
