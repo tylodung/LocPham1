@@ -1,6 +1,6 @@
 ---
 title: Đừng vội vứt vỏ lon đi vì chúng có thể trồng rau, làm giá để đồ vừa đẹp vừa rẻ
-author: [lekha]
+author: [doanbinh]
 ---
 Hóa ra những thứ tưởng chỉ đem đi bán sắt vụn như vỏ lon cũ lại có thể tái chế thành nhiều món đồ tiện ích như thế.
 
@@ -15,13 +15,13 @@ Vỏ lon kim loại cũng như vậy, thay vì có thêm một ít tiền nhờ 
 
 Để làm khay đựng từ vỏ lon, bạn cần chuẩn bị:
 
-- 4-6 vỏ lon tùy ý
+- 4-6 vỏ lon tùy ý;
 
-- Dây thừng lớn, sơn màu, keo dán
+- Dây thừng lớn, sơn màu, keo dán;
 
-- 1 tấm gỗ hình chữ nhật có bề rộng bằng với chiều cao của vỏ lon
+- 1 tấm gỗ hình chữ nhật có bề rộng bằng với chiều cao của vỏ lon;
 
-- Khoan máy (có thể có hoặc không)
+- Khoan máy (có thể có hoặc không).
 
 ![ten buc hinh](https://eva-img.24hstatic.com/upload/4-2017/images/2017-10-26/dung-voi-vut-vo-lon-di-vi-chung-co-the-trong-rau-lam-gia-de-do-vua-dep-vua-re-2-1509015459-width600height450.jpg "ten buc hinh")
 

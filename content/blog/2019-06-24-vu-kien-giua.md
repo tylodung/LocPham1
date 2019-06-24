@@ -5,6 +5,8 @@ author: [doanbinh]
 
 Một năm trước, CEO của Apple và Qualcomm gặp nhau tại trụ sở của Apple. Hai vị lãnh đạo cần phải đàm phán để tìm ra giải pháp cho vụ kiện về bản quyền kéo dài nhiều năm giữa hai công ty. 
 
+![ten buc hinh](http://vnmedia.vn/dataimages/201904/original/images2328791_HNMO_QL_APPL_1.jpg "ten buc hinh")
+
 Tuy nhiên Steve Mollenkopf, CEO của Qualcomm lại im lặng. Ông không bắt đầu câu chuyện mà để cho luật sư của mình nói trước.
 
 2 ông Mollenkopf và Tim Cook dường như rất khó tìm được tiếng nói chung. Sự khác biệt về tính cách, cách lãnh đạo của 2 người phần nào khiến cho Apple và Qualcomm khó có thể đạt được một thỏa thuận mà không có sự phán xử từ tòa án.
@@ -30,7 +32,7 @@ Một vụ tranh chấp bản quyền khác giữa Nokia và Qualcomm cũng đi 
 
 Những vị CEO là người ra quyết định, do vậy họ hiểu những gì phải đánh đổi trong các thỏa thuận mà cấp dưới có khi rất khó nắm bắt
 
-John Chambers, CEO của Cisco System từ 1995-2015.
+**John Chambers, CEO của Cisco System từ 1995-2015.**
 
 “Cá nhân tôi cho rằng không ai trong hai người có thể xóa đi khoảng cách”, vị quản lý này nhận định.
 
@@ -44,7 +46,7 @@ Vụ kiện Qualcomm cũng là dịp hiếm hoi CEO của Apple xuất hiện tr
 
 Phán quyết của tòa án trong vụ kiện này có thể ảnh hưởng tới cả mô hình kinh doanh và cấp bằng sáng chế của Qualcomm, hoặc khiến Apple phải bỏ ra hàng tỷ USD để trả cho Qualcomm. Tác động rất lớn khiến 2 công ty không ngần ngại bỏ ra hàng triệu USD để thuê những luật sư giỏi và theo đuổi vụ việc.
 
-Vụ kiện tỷ USD của hai gã khổng lồ
+**Vụ kiện tỷ USD của hai gã khổng lồ**
 
 Apple và Qualcomm từng là những đối tác quan trọng. Khi phát triển iPhone đời đầu vào năm 2007, Apple đã sử dụng nhiều công nghệ của Qualcomm. Hãng sản xuất chip muốn tính phí 5% cho mỗi chiếc iPhone, tương đương khoảng 12-20 USD.
 
@@ -54,7 +56,7 @@ Tim Cook đề xuất chỉ trả 1,5 USD cho mỗi chiếc iPhone bán ra. Tuy 
 
 Năm 2011, hai công ty ký gia hạn thỏa thuận. Qualcomm trả cho Apple 1 tỷ USD/năm để trở thành nhà cung cấp độc quyền chip modem cho iPhone, nhưng họ có thêm một thỏa thuận: Apple phải trả lại số tiền đó nếu ký hợp đồng với một hãng chip khác.
 
-“Chúng tôi cảm thấy như bị dí súng vào đầu”.
+**“Chúng tôi cảm thấy như bị dí súng vào đầu”.**
 
 Giám đốc vận hành của Apple, ông Jeff Williams nói về thỏa thuận độc quyền với Qualcomm.
 
@@ -79,7 +81,7 @@ Không lâu sau, một đối thủ khác là Broadcom đề nghị mua lại Qu
 
 “Cả 2 bên đều có những vũ khí lợi hại. Cần phải có một sự kiện gì khiến cho một bên hạ vũ khí của mình xuống”.
 
-Một người trong cuộc nhận xét về vụ kiện.
+**Một người trong cuộc nhận xét về vụ kiện.**
 
 Trước công luận, ông Mollenkopf thường xuyên ngỏ ý 2 công ty sắp đạt được thỏa thuận. Tuy nhiên ông Cook lại khẳng định không thể có thỏa thuận giữa Apple và Qualcomm, và nói rằng hai vị lãnh đạo đã không nói chuyện trực tiếp từ cuối năm 2018.
 
