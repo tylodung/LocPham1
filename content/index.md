@@ -7,8 +7,8 @@ id: home
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Bạn Sẽ Rất Cần Những Mẹo Vặt</h3>
-      <p>Đến Với Mẹo Hay Công Nghệ Bạn Sẽ Có Những Cách Khắc Phục Những Sự Cố Ngoài Mong Muốn Trong Cuộc Sống . Hãy Để Mẹo Hay Công Nghệ Giúp Bạn Một Tay Nhé. </p>
+      <h3><span>Bạn Sẽ Rất Cần</span></h3>
+      <p>Đến Với Mẹo Hay Công Nghệ Bạn Sẽ Có Những Cách Khắc Phục Những Sự Cố Ngoài Mong Muốn Trong Cuộc Sống . Hãy Để Mẹo Hay Công Nghệ Giúp Bạn Một Tay Nhé.</p>
     </div>
     <div class="marketing-col">
       <h3>Thư Ngỏ</h3>
