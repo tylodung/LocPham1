@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://omedata.com/"
+            href="https://ericcar.info/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
