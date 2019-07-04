@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Công Nghệ Ome',
-    siteUrl: 'https://omedata.com/',
+    siteUrl: 'https://ericcar.info/',
     rssFeedTitle: 'meovatthuongngay',
     rssFeedDescription: 'Công Nghệ Ome',
   },
